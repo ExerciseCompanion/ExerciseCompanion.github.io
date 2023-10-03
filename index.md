@@ -8,6 +8,7 @@ The goal is to encourage people to excercise or walk around.  In this inital imp
 (Work in Progress)
 
 ## Installation (Run)
+Repo: [https://github.com/ExerciseCompanion/app/tree/main](https://github.com/ExerciseCompanion/app/tree/main)
 ```bash
 git clone https://github.com/ExerciseCompanion/app.git
 cd app/exercise_companion flutter run
