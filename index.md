@@ -20,7 +20,7 @@ The container isolating the hats is scrollable, and allows the user to select a 
 Tasks                      |  Pets                     |  Shop                    |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Tasks](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Tasks.png) | ![Pets](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Pets.png) | ![Shop](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Shop.png)
-These are potential tasks to complete, when the user completes them, they may claim the reward | pets page (wip) | shop page (wip)
+These are potential tasks to complete, when the user completes them, they may claim the reward | This page is where the user can select their pet via the select button | shop page (wip)
 
 ## Installation (Run)
 Repo: [https://github.com/ExerciseCompanion/app/tree/main](https://github.com/ExerciseCompanion/app/tree/main)
