@@ -35,5 +35,5 @@ tba
 ## Develpment Status
 [https://github.com/orgs/ExerciseCompanion/projects/1](https://github.com/orgs/ExerciseCompanion/projects/1/views/1)
 
-## About Us
-Christopher Lee: Graduate student at University of Hawaiʻi at Mānoa
+## About Me
+Hi, my name is Christopher. I am in my first semester of ICS graduate school in University of Hawaiʻi at Mānoa.  I enjoy traveling abroad and sightseeing.
