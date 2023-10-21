@@ -7,10 +7,10 @@ The goal is to encourage people to excercise or walk around.  In this inital imp
 
 ## Usage
 
-Home Page                  |  Home Page Swiped Up
-:-------------------------:|:-------------------------:
-![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/HomeUp.png)
-Home page where the virtual pet exists.  Pet's health is determined visually by the pet's physical condition (i.e., (x_x), (^-^), or (-_-)) Step counter is readily available. | Swipe up to see specific data metrics. In this case, it is a temporal representation of steps taken each month.  This section will also indicate pet's numeric health. 
+Login Page                 |  Home Page                |  Home Page Swiped Up
+:-------------------------:|:-------------------------:|:-------------------------:
+![Login](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/login.png) | ![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/HomeUp.png)
+Login Page where a user can login | Home page where the virtual pet exists.  Pet's health is determined visually by the pet's physical condition (i.e., (x_x), (^-^), or (-_-)) Step counter is readily available. | Swipe up to see specific data metrics. In this case, it is a temporal representation of steps taken each month.  This section will also indicate pet's numeric health. 
 
 Customization              |  Customization (Wide)
 :-------------------------:|:-------------------------:
@@ -28,9 +28,6 @@ Repo: [https://github.com/ExerciseCompanion/app/tree/main](https://github.com/Ex
 git clone https://github.com/ExerciseCompanion/app.git
 cd app/exercise_companion flutter run
 ```
-
-## Building
-tba
 
 ## Develpment Status
 [https://github.com/orgs/ExerciseCompanion/projects/1](https://github.com/orgs/ExerciseCompanion/projects/1/views/1)
