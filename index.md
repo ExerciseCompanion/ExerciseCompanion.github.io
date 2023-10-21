@@ -33,4 +33,4 @@ cd app/exercise_companion flutter run
 [https://github.com/orgs/ExerciseCompanion/projects/1](https://github.com/orgs/ExerciseCompanion/projects/1/views/1)
 
 ## About Me
-Hi, my name is Christopher. I am in my first semester of ICS graduate school in University of Hawaiʻi at Mānoa.  I enjoy traveling abroad and sightseeing.
+Hi, my name is Christopher Lee. I am in my first semester of ICS graduate school in University of Hawaiʻi at Mānoa.  I enjoy traveling abroad and sightseeing.
