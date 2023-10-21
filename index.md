@@ -26,7 +26,13 @@ These are potential tasks to complete, when the user completes them, they may cl
 Repo: [https://github.com/ExerciseCompanion/app/tree/main](https://github.com/ExerciseCompanion/app/tree/main)
 ```bash
 git clone https://github.com/ExerciseCompanion/app.git
-cd app/exercise_companion flutter run
+cd exercise_companion
+flutter run
+```
+
+## Build
+```bash
+flutter build apk --release
 ```
 
 ## Develpment Status
