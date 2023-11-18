@@ -8,34 +8,34 @@ The goal is to encourage people to excercise or walk around.  In this inital imp
 ## Usage
 
 Login Page                 | Login Failed
-:-------------------------:|:-------------------------:
+:-------------------------|:-------------------------
 ![Login](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/login.png) | ![LoginFailed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/loginfailed.png)
 Login page where a user can login | Demonstration of failed login
 
 Home Page                  |  Home Page Swiped Up
-:-------------------------:|:-------------------------:
+:-------------------------|:-------------------------
 ![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/homeup.png)
-Home page where the virtual pet exists with Step counter metrics readily available near the bottom pull up tab. The navigation bar is adorned with: tasks, wardrobe, home, pets, and shop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Swipe up to see specific data metrics. The Experience and Health bars are percentages of the current pet's statistics.  A temporal representation of steps taken each month is given in a graph form.  The settings button is found at the bottom.
+Home page where the virtual pet exists with Step counter metrics readily available near the bottom pull up tab. The navigation bar is adorned with: tasks, wardrobe, home, pets, and shop. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Swipe up to see specific data metrics. The Experience and Health bars are percentages of the current pet's statistics.  A temporal representation of steps taken each month is given in a graph form.  The settings button is found at the bottom.
 
 Settings                   |  Settings Changed
-:-------------------------:|:-------------------------:
+:-------------------------|:-------------------------
 ![Settings](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/settings.png) | ![SettingsDark](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/settingsdark.png)
 View of settings page | Dark mode applied
 
 Task                       | Task Claimed
-:-------------------------:|:-------------------------:
+:-------------------------|:-------------------------
 ![Task](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/task.png) | ![TaskClaimed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/taskclaimed.png)
 View of tasks page with three distinct states: in progress, claimable, and claimed.  Ideally, new tasks are added daily  | User may depress the claimed button to receive a sum of in game currency denoted in the top right &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-|Shop                       | Shop Purchase Failed      | Shop Purchase Success     |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|![Shop](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shop.png) | ![ShopFailed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuyfail.png) | ![ShopPass](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuypass.png)|
-|View of tasks page with three distinct states: in progress, claimable, and claimed.  Ideally, new tasks are added daily  | User may depress the claimed button to receive a sum of in game currency denoted in the top right ||
+Shop                       | Shop Purchase Failed      | Shop Purchase Success | Shop Purchase Success Hat Added
+:-------------------------|:-------------------------|:-------------------------|:-------------------------
+![Shop](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shop.png) | ![ShopFailed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuyfail.png) | ![ShopPass](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuypass.png) | ![CustomizationAllHat](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/customizeallhat.png)
+A shop page view with listed items avalible for purchase &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | In the event of insufficent funds, a transaction is denied &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | If the user has enough currency, the transaction passes and the item purchased is removed from the shop &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Upon a successful purchase, the hat is added to the inventory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 Customization              |  Customization (Wide)
 :-------------------------:|:-------------------------:
-![Customization](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/customization.png) | ![Customization Wide](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/CustomizationWide.png)
+![Customization](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/cutomize.png) | ![CustomizationAllHat](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/customizeallhat.png)
 The container isolating the hats is scrollable, and allows the user to select a hat for their virual pet | This is a demonstration of a different aspect ratio, still needs some work.
 
 Tasks                      |  Pets                     |  Shop                    |
