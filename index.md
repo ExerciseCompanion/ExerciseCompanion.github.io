@@ -15,7 +15,7 @@ Login page where a user can login | Demonstration of failed login
 Home Page                  |  Home Page Swiped Up
 :-------------------------:|:-------------------------:
 ![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/homeup.png)
-Home page where the virtual pet exists with Step counter metrics readily available near the bottom pull up tab. The navigation bar is adorned with: tasks, wardrobe, home, pets, and shop. | Swipe up to see specific data metrics. The Experience and Health bars are percentages of the current pet's statistics.  A temporal representation of steps taken each month is given in a graph form.  The settings button is found at the bottom.
+Home page where the virtual pet exists with Step counter metrics readily available near the bottom pull up tab. The navigation bar is adorned with: tasks, wardrobe, home, pets, and shop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Swipe up to see specific data metrics. The Experience and Health bars are percentages of the current pet's statistics.  A temporal representation of steps taken each month is given in a graph form.  The settings button is found at the bottom.
 
 Settings                   |  Settings Changed
 :-------------------------:|:-------------------------:
@@ -25,7 +25,13 @@ View of settings page | Dark mode applied
 Task                       | Task Claimed
 :-------------------------:|:-------------------------:
 ![Task](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/task.png) | ![TaskClaimed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/taskclaimed.png)
-View of tasks page with three distinct states: in progress, claimable, and claimed.  Ideally, new tasks are added daily  | User may depress the claimed button to receive a sum of in game currency denoted in the top right
+View of tasks page with three distinct states: in progress, claimable, and claimed.  Ideally, new tasks are added daily  | User may depress the claimed button to receive a sum of in game currency denoted in the top right &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|Shop                       | Shop Purchase Failed      | Shop Purchase Success     |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Shop](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shop.png) | ![ShopFailed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuyfail.png) | ![ShopPass](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/shopbuypass.png)|
+|View of tasks page with three distinct states: in progress, claimable, and claimed.  Ideally, new tasks are added daily  | User may depress the claimed button to receive a sum of in game currency denoted in the top right ||
+
 
 Customization              |  Customization (Wide)
 :-------------------------:|:-------------------------:
