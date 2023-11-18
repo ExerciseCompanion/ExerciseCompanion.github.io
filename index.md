@@ -56,6 +56,13 @@ flutter run
 flutter build apk --release
 ```
 
+## Releases
+### Latest
+- [v1.0](https://github.com/ExerciseCompanion/exercisecompanion.github.io/releases/tag/v1.0)
+  - [Android APK Download](https://github.com/ExerciseCompanion/exercisecompanion.github.io/releases/download/v1.0/exercise-companion-app-release.apk)
+### All Releases
+-  [Releases](https://github.com/ExerciseCompanion/exercisecompanion.github.io/releases/)
+
 ## Develpment Status
 [https://github.com/orgs/ExerciseCompanion/projects/1](https://github.com/orgs/ExerciseCompanion/projects/1/views/1)
 
