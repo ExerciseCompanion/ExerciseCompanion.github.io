@@ -7,10 +7,15 @@ The goal is to encourage people to excercise or walk around.  In this inital imp
 
 ## Usage
 
-Login Page                 |  Home Page                |  Home Page Swiped Up
-:-------------------------:|:-------------------------:|:-------------------------:
-![Login](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/login.png) | ![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/Home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/HomeUp.png)
-Login Page where a user can login | Home page where the virtual pet exists.  Pet's health is determined visually by the pet's physical condition (i.e., (x_x), (^-^), or (-_-)) Step counter is readily available. | Swipe up to see specific data metrics. In this case, it is a temporal representation of steps taken each month.  This section will also indicate pet's numeric health. 
+Login Page                 | Login Failed
+:-------------------------:|:-------------------------:
+![Login](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/login.png) | ![LoginFailed](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/loginfailed.png)
+Login page where a user can login | Demonstration of failed login
+
+  Home Page                |  Home Page Swiped Up
+:-------------------------:|:-------------------------:
+![Home](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/home.png) | ![Statistics](https://raw.githubusercontent.com/ExerciseCompanion/exercisecompanion.github.io/main/assets/release/homeup.png)
+Home page where the virtual pet exists with Step counter metrics readily available near the bottom pull up tab. | Swipe up to see specific data metrics. The Experience and Health bars are percentages of the current pet's statistics.  A temporal representation of steps taken each month is given in a graph form.  The settings button is found at the bottom.
 
 Customization              |  Customization (Wide)
 :-------------------------:|:-------------------------:
