@@ -56,6 +56,9 @@ flutter run
 flutter build apk --release
 ```
 
+## Usability Evaluation
+[View Evaluation](https://exercisecompanion.github.io/evaluation.html)
+
 ## Releases
 ### Latest
 - [v1.0](https://github.com/ExerciseCompanion/exercisecompanion.github.io/releases/tag/v1.0)
