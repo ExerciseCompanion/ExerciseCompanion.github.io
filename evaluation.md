@@ -118,6 +118,6 @@
 - Usability Issue 3:
 
 ## Application
-[Application Overview](https://exercisecompanion.github.io/)
+[Overview](https://exercisecompanion.github.io/)
 
 
