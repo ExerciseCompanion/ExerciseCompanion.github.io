@@ -43,10 +43,10 @@
 - Users were recruited based on whoever wanted to take part.  Typically close friends, and frequently seen associates will be asked to participicate.
 ### Participants
 - A
-  - Has Real Pet:
-  - Exercises Regularly:
-  - Plays Games:
-  - Place Where Usability Test was Taken:
+  - Has Real Pet: Yes
+  - Exercises Regularly: No
+  - Plays Games: No
+  - Place Where Usability Test was Taken: Cybersecurity Conference
 - B
   - Has Real Pet:
   - Exercises Regularly:
@@ -78,11 +78,11 @@
 ### Data
 - A
   - Device Used: Your Device
-  - Goal 1 Observations:
-  - Goal 2 Observations:
-  - Goal 3 Observations:
-  - Goal 4 Observations:
-  - Goal 5 Observations:
+  - Goal 1 Observations: User loggined in successfully
+  - Goal 2 Observations: User mentioned the dates are too squished
+  - Goal 3 Observations: User thought the pet selection was the shop.  User had trouble understanding that currency is needed to purchase
+  - Goal 4 Observations: User succesfully customized pet multiple times and was able to infer that more hats existed
+  - Goal 5 Observations: User swapped to different pets multiple times
 - B
   - Device Used:
   - Goal 1 Observations:
