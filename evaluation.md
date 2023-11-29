@@ -48,15 +48,15 @@
   - Plays Games: No
   - Place Where Usability Test was Taken: Cybersecurity Conference
 - B
-  - Has Real Pet:
-  - Exercises Regularly:
-  - Plays Games:
-  - Place Where Usability Test was Taken:
+  - Has Real Pet: No
+  - Exercises Regularly: No
+  - Plays Games: Yes
+  - Place Where Usability Test was Taken: Lava Lab
 - C
-  - Has Real Pet:
-  - Exercises Regularly:
-  - Plays Games:
-  - Place Where Usability Test was Taken:
+  - Has Real Pet: Yes (5 Pets)
+  - Exercises Regularly: No
+  - Plays Games: Yes
+  - Place Where Usability Test was Taken: Lab
 - D
   - Has Real Pet:
   - Exercises Regularly:
@@ -84,19 +84,19 @@
   - Goal 4 Observations: User succesfully customized pet multiple times and was able to infer that more hats existed
   - Goal 5 Observations: User swapped to different pets multiple times
 - B
-  - Device Used:
-  - Goal 1 Observations:
-  - Goal 2 Observations:
-  - Goal 3 Observations:
-  - Goal 4 Observations:
-  - Goal 5 Observations:
+  - Device Used: Your Device
+  - Goal 1 Observations: Login screen looking crispy, likes the border radisu
+  - Goal 2 Observations: User flipped through all the screens before finding the correct.  Font too squished.  User tried to also hover on the progress bar
+  - Goal 3 Observations: User noticed he is broke.  User frantically clicked on the money symbol and asked where to put in credit card info.  He didnt know claim will give money (failed)
+  - Goal 4 Observations: User didnt want to customize anymore beyond the top hat (failed)
+  - Goal 5 Observations: User switched pets only once (failed), found out his new pet is max experience.
 - C
   - Device Used:
-  - Goal 1 Observations:
-  - Goal 2 Observations:
-  - Goal 3 Observations:
-  - Goal 4 Observations:
-  - Goal 5 Observations:
+  - Goal 1 Observations: User immediately signed in and said woah what is this ui?  Not very compatible (i.e., aspect ratio)
+  - Goal 2 Observations: User ignored instructions and just went to customize, user also tried to shake device to test step counter and tap counter, but little did he know, it was not yet implemented.
+  - Goal 3 Observations: User purchased items and went through menus, claims he is rich
+  - Goal 4 Observations: User said his tamogochi is "dripping" and "your going back to bald"
+  - Goal 5 Observations: User is happy at the 7 tomagachis in his collection
 - D
   - Device Used:
   - Goal 1 Observations:
