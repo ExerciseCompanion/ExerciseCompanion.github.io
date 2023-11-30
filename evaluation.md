@@ -63,10 +63,10 @@
   - Plays Games: Yes
   - Place Where Usability Test was Taken: Keller 103
 - E
-  - Has Real Pet:
-  - Exercises Regularly:
-  - Plays Games:
-  - Place Where Usability Test was Taken:
+  - Has Real Pet: Yes (5 birds)
+  - Exercises Regularly: No
+  - Plays Games: No
+  - Place Where Usability Test was Taken: ICS Space
 
 ### Script
 - We are evaluating the usability of a excercise companion application to determine any fatal usability issues.
@@ -106,14 +106,14 @@
   - Goal 5 Observations: User changed pet once
 - E
   - Device Used:
-  - Goal 1 Observations:
-  - Goal 2 Observations:
-  - Goal 3 Observations:
-  - Goal 4 Observations:
-  - Goal 5 Observations:
+  - Goal 1 Observations: Asked if there was a password
+  - Goal 2 Observations: Likes the slide up with thumb, bars are really easy to understand.  Step graph is easy to look at.  Like that the colors pop.  Dates are hard to read.
+  - Goal 3 Observations: Some icons are easy to understand while other are not.  Wont walk 20k steps
+  - Goal 4 Observations: Likes the character, easy to add onto character.  Would like to push hat up more.
+  - Goal 5 Observations: Works smoothly and pet switch is clear.
 
 ### Results
-- Usability Issue 1:
+- Usability Issue 1: 
 - Usability Issue 2:
 - Usability Issue 3:
 
