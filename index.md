@@ -1,5 +1,7 @@
 ---
 id: home
+title: Exercise Companion Application
+sidebar_label: Home
 ---
 
 # Exercise Companion Application
