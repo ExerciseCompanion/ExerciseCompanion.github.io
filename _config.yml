@@ -1,2 +1,6 @@
 name: Excercise Companion
 title: null
+
+sidebar:
+  - index
+  - evaluation
