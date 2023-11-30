@@ -1,3 +1,9 @@
+---
+layout: default
+title: Usability Evaluation Design
+nav_order: 2
+---
+
 # Exercise Companion Usability Evaluation Design
 
 ## Usability Goals and Senarios:
