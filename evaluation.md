@@ -58,10 +58,10 @@
   - Plays Games: Yes
   - Place Where Usability Test was Taken: Lab
 - D
-  - Has Real Pet:
-  - Exercises Regularly:
-  - Plays Games:
-  - Place Where Usability Test was Taken:
+  - Has Real Pet: No
+  - Exercises Regularly: Yes
+  - Plays Games: Yes
+  - Place Where Usability Test was Taken: Keller 103
 - E
   - Has Real Pet:
   - Exercises Regularly:
@@ -98,12 +98,12 @@
   - Goal 4 Observations: User said his tamogochi is "dripping" and "your going back to bald"
   - Goal 5 Observations: User is happy at the 7 tomagachis in his collection
 - D
-  - Device Used:
-  - Goal 1 Observations:
-  - Goal 2 Observations:
-  - Goal 3 Observations:
-  - Goal 4 Observations:
-  - Goal 5 Observations:
+  - Device Used: Your Device
+  - Goal 1 Observations: Whats the password
+  - Goal 2 Observations: Likes the slide up and the graph, although it look like it goes negative
+  - Goal 3 Observations: User had to look for an extended amount of time to correlate that claim gives money
+  - Goal 4 Observations: User tried all hats
+  - Goal 5 Observations: User changed pet once
 - E
   - Device Used:
   - Goal 1 Observations:
