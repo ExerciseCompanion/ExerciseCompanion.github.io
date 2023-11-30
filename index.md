@@ -1,9 +1,3 @@
----
-id: home
-title: Exercise Companion Application
-sidebar_label: Home
----
-
 # Exercise Companion Application
 ## Motivation
 The motivaton of this application is to improve the overall fitness of the population through gamification.  In modern times, there are many people who remain sedentary.  This can be detrimental to long term health.  By build a relationship with the virtual pet/ companion, we hope that this is enough motivation for the user to go and exercise.
