@@ -123,7 +123,4 @@ nav_order: 2
 - Usability Issue 2: Claim button did not indicate what reward was being received.
 - Usability Issue 3: Pet selection screen and shop screen was too similar
 
-## Application
-[Overview](https://exercisecompanion.github.io/)
-
 
