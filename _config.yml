@@ -1,7 +1,2 @@
 name: Excercise Companion
 title: null
-remote_theme: yaoyao-liu/minimal-light
-
-sidebar:
-  - home
-  - evaluation
