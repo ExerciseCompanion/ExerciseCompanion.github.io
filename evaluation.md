@@ -56,7 +56,7 @@
   - Has Real Pet: Yes (5 Pets)
   - Exercises Regularly: No
   - Plays Games: Yes
-  - Place Where Usability Test was Taken: Lab
+  - Place Where Usability Test was Taken: Lava Lab
 - D
   - Has Real Pet: No
   - Exercises Regularly: Yes
@@ -85,7 +85,7 @@
   - Goal 5 Observations: User swapped to different pets multiple times
 - B
   - Device Used: Your Device
-  - Goal 1 Observations: Login screen looking crispy, likes the border radisu
+  - Goal 1 Observations: Login screen looking crispy, likes the border radius
   - Goal 2 Observations: User flipped through all the screens before finding the correct.  Font too squished.  User tried to also hover on the progress bar
   - Goal 3 Observations: User noticed he is broke.  User frantically clicked on the money symbol and asked where to put in credit card info.  He didnt know claim will give money (failed)
   - Goal 4 Observations: User didnt want to customize anymore beyond the top hat (failed)
@@ -113,9 +113,9 @@
   - Goal 5 Observations: Works smoothly and pet switch is clear.
 
 ### Results
-- Usability Issue 1: 
-- Usability Issue 2:
-- Usability Issue 3:
+- Usability Issue 1: Dates too squashed due to aspect ratio and varying screensize compare to virtual machine.
+- Usability Issue 2: Claim button did not indicate what reward was being received.
+- Usability Issue 3: Pet selection screen and shop screen was too similar
 
 ## Application
 [Overview](https://exercisecompanion.github.io/)
