@@ -1,3 +1,9 @@
+---
+id: evaluation
+title: Exercise Companion Usability Evaluation Design
+sidebar_label: Evaluation
+---
+
 # Exercise Companion Usability Evaluation Design
 
 ## Usability Goals and Senarios:
